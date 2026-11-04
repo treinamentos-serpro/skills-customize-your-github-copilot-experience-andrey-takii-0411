@@ -1,4 +1,3 @@
-
 # 📘 Assignment: Jogo da Forca
 
 ## 🎯 Objective
